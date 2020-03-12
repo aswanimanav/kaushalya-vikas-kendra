@@ -358,7 +358,7 @@ body, html{
   margin-top: 0;
 }
 #para1{
-	background-image: url("file:///Users/manavaswani/Downloads/KViK%202/images/studying.jpg");
+	background-image: url("../images/studying.jpg");
 	height: 100%;
 	width: 100%;
 	left: 0;
@@ -370,7 +370,7 @@ body, html{
   	object-fit: fill;
 }
 #para2{
-	background-image: url("file:///Users/manavaswani/Downloads/KViK%202/images/repairing.jpg");
+	background-image: url("../images/repairing.jpg");
 	height: 100%;
 	width: 100%;
 	left: 0;
